@@ -1,2 +1,2 @@
 # removebg
-A Python API wrapper for removing background using remove.bg's API  Topics
+A Golang API wrapper for removing background using remove.bg's API  Topics
