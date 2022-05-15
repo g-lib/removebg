@@ -1,5 +1,5 @@
 # removebg
-A Golang API wrapper for removing background using [remove.bg](https://www.remove.bg/)'s [API]()  Topics
+A Golang API wrapper for removing background using [remove.bg](https://www.remove.bg/)'s [API]() 
 
 # License
 This code is licensed under the GPL3 License. See [here](https://github.com/g-lib/removebg/blob/main/LICENSE) for more details.
